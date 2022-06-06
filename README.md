@@ -1,5 +1,5 @@
 
-🐱‍🏍 Hello, I'm Gustavo
+🐱‍🏍 Hi, I'm Gustavo
 
 🐱‍🚀 I'm learning about many new things, but now Java and back end
 
