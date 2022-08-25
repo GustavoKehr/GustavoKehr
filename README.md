@@ -29,3 +29,5 @@
  
 
   </div>
+
+![Snake animation](https://github.com/GustavoKehr/GustavoKehr/blob/output/github-contribution-grid-snake.svg)
