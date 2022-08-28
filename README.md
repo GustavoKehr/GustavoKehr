@@ -1,7 +1,7 @@
 
 🐱‍🏍 Hi, I'm Gustavo
 
-🐱‍🚀 I'm learning about JavaScript, but soon HTML, CSS, C, C++, C#, PHP, Ruby, Rails, C#, Swift, Node, Python
+🐱‍🚀 I'm learning about JavaScript and Node, but soon C#, Python and others
 
 🐱‍👤 I love games, sports, animals and my girlfriend
 
