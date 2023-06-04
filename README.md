@@ -1,13 +1,13 @@
 
-🐱‍🏍 Hi, I'm Gustavo
+🏍 Hi, I'm Gustavo
 
-🐱‍🚀 Actually learning about JavaScript, Python, C#, C, HTML 5, CSS 3 and PHP 
+🚀 Actually learning about JavaScript, Python, C#, C, HTML 5, CSS 3 and PHP 
 
-🐱‍👤 I love games, sports, animals and my girlfriend
+👤 I love games, sports, animals and my girlfriend
 
 🐉 I'm looking to collaborate on codes and general studies
 
-🐱‍💻 If you want talk to me: Discord Kehr#8191
+💻 If you want talk to me: Discord Kehr#8191
 
 <div align="left">
   <a href="https://github.com/GustavoKehr">
