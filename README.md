@@ -33,10 +33,7 @@
 <br></div>
 <br>
  
-  <p>Visitor Counter!</p>
   
-![Visitor Count](https://profile-counter.glitch.me/alexiamelhado18/count.svg)
- </div>
 
 
 <div> 
@@ -44,9 +41,11 @@
   <a href = "mailto:guckehr008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-kehr-6a3356248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/thugkehr/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-  
- 
-
   </div>
+  
+  <p>Visitor Counter!</p>
+  
+![Visitor Count](https://profile-counter.glitch.me/alexiamelhado18/count.svg)
+ </div>
 
 ![Snake animation](https://github.com/GustavoKehr/GustavoKehr/blob/output/github-contribution-grid-snake.svg)
