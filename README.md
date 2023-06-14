@@ -7,7 +7,7 @@
 
 🐉 I'm looking to collaborate on codes and general studies
 
-💻 If you want talk to me: Discord Kehr#8191
+💻 If you want talk to me: Discord gustavokehr | Gmail &downarrow;
 
 <div align="left">
   <a href="https://github.com/GustavoKehr">
