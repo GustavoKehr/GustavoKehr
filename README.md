@@ -23,12 +23,16 @@
 </div>
 
 <div align="left"><br>
-    <img align="center" alt="Gk-Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gk-HTML" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gk-CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gk-Js" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gk-Angular" height="30" width="40"
+        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+    <img align="center" alt="Gk-Java" height="30" width="40"
+        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img align="center" alt="Gk-Python" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Gk-Csharp" height="30" width="40"
