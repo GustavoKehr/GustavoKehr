@@ -1,12 +1,6 @@
 
 🏍 Hi, I'm Gustavo
 
-🚀 Actually learning about JavaScript, HTML, CSS, Angular, Java and Python,
-
-👤 I love games, sports, animals and my girlfriend
-
-🐉 I'm looking to collaborate on codes and general studies
-
 💻 If you want talk to me: Discord gustavokehr | Gmail &downarrow;
 
 <div> 
